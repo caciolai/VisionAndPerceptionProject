@@ -9,7 +9,7 @@ We implemented two different types of GAN:
 - a simpler **DCGAN**, based on the architecture presented in [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434);
 - a more complex **BigGAN**, based on the architecture presented in [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096).
 
-The project implementation has been done on Colab, using TensorFlow 2. All the code used is accessible [here](Project.ipynb).
+The project implementation has been done on Colab, using TensorFlow 2. All the code used is accessible on a copy of the Colab notebook, [here](Project.ipynb).
 
 ## Documentation
 
